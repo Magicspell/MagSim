@@ -5,7 +5,7 @@ A simple library to simulate multiple 2d objects with positive magnetic forces a
 
 ### Usage
 
-```
+```python
 from Magsim import update_objects
 
 # Objects to simulate, as a list of 2d coordinates (tuples)
